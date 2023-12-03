@@ -1,4 +1,4 @@
-# Just leaning how to use markdown to communicate with Github Education
+# Just leaning how to use markdown to communicate with Github Education and more
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 

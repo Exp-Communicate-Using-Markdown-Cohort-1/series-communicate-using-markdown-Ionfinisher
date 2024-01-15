@@ -1,5 +1,5 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Teddy ASSIH CV
-description: This is my CV web page.
+title: Artisan Choice project demo. Teddy ASSIH
+description: This page is a for showing a demo of the Artisan Choice app.

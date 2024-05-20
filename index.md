@@ -7,7 +7,7 @@ git = 'love'
 if git == 'love':
   print(git)
 else:
-  print('Nothing to say')
+  print('Nothing to say than Hello, World!')
 ```
 
 - [X] Turn on GitHub Pages
